@@ -19,10 +19,11 @@ This project is an interactive Power BI dashboard that explores the global burde
 
 📁 Files
 
-- `Understanding TB.pbix`: Power BI dashboard file.
+- `Global TB.pbix`: Power BI dashboard file.
 - `Documentation.pdf`: Full project documentation (background, methodology, findings, future prediction).
 - `Data cleaning.ipynb`: Data celaning using jupyter notebook.
 - `TB_Cleaned.csv`: The cleaned CSV file by using jupyter Notebook.
+- `screenshots/`: Preview images of the dashboard
 
 📄 Full Report
 
