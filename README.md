@@ -23,7 +23,7 @@ This project is an interactive Power BI dashboard that explores the global burde
 - `Documentation.pdf`: Full project documentation (background, methodology, findings, future prediction).
 - `Data cleaning.ipynb`: Data celaning using jupyter notebook.
 - `TB_Cleaned.csv`: The cleaned CSV file by using jupyter Notebook.
-- `screenshots/`: Preview images of the dashboard
+- `screenShots/`: Preview images of the dashboard
 
 📄 Full Report
 
